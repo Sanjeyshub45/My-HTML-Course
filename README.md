@@ -53,20 +53,23 @@ The course covers:
 Each lesson is in its own folder with a detailed `README.md`.  
 Folder names are organized in order:
 
-01-HTML-Is-Not-A-Programming-Language
-02-DOM-Explained-Simply
-03-Hyperlinks-Explained
-04-HTML-Images
-05-HTML-Audio-Tag
-06-HTML-Video-Tag
-07-HTML-Text-Formatting
-08-HTML-Lists
-09-HTML-Tables
-10-Span-and-Div
-11-HTML-iFrames
-12-HTML-Buttons
-13-HTML-Forms
-14-HTML-Meta-Tags
+## 📚 Course Modules
+
+1. **01-HTML-Is-Not-A-Programming-Language**  
+2. **02-DOM-Explained-Simply**  
+3. **03-Hyperlinks-Explained**  
+4. **04-HTML-Images**  
+5. **05-HTML-Audio-Tag**  
+6. **06-HTML-Video-Tag**  
+7. **07-HTML-Text-Formatting**  
+8. **08-HTML-Lists**  
+9. **09-HTML-Tables**  
+10. **10-Span-and-Div**  
+11. **11-HTML-iFrames**  
+12. **12-HTML-Buttons**  
+13. **13-HTML-Forms**  
+14. **14-HTML-Meta-Tags**  
+
 ---
 
 ## 📌 How to Use This Repo
